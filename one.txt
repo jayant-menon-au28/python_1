@@ -1,5 +1,0 @@
-this is new text file that i'm testing git fetch with 
-
-I am appending a line to this for testing sake.
-
-This is me inserting into this document using vi, i opened the file with vi <file> and then hit i to enter insertion mode.
